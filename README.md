@@ -13,10 +13,6 @@ Welcome to the ThreeTrials repository! This project is an Android application th
 
 ## Screenshots 📸
 
-To display the screenshots in a structured manner with three images per row, you can organize them like this in your README file:
-
-## Screenshots 📸
-
 <table>
   <tr>
     <td><img src="https://github.com/ElyahuAnavi/ThreeTrials/assets/137146370/d1c975b0-c635-4a05-9fd1-b7ed54249d82" width="300" /></td>
