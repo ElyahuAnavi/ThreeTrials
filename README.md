@@ -57,8 +57,4 @@ Run the app on an emulator or device. The main screen lets you choose and play a
 
 Feel free to contribute! Fork this repo, make changes, and submit a PR.
 
-## License 📄
-
-This project is under the MIT License - see [LICENSE.md](LICENSE.md) for details.
-
 Enjoy and feel free to enhance ThreeTrials!
