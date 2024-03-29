@@ -6,7 +6,7 @@ Welcome to the ThreeTrials repository! This project is an Android application th
 
 - [Screenshots](#screenshots-)
 - [Overview](#overview-)
-- [Installation](#installation-)
+- [Installation](#installation-️)
 - [Getting Started](#getting-started-)
 - [Contribution](#contribution-)
 - [License](#license-)
